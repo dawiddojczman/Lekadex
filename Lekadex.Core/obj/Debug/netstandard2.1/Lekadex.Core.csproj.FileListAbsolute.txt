@@ -1,0 +1,13 @@
+C:\Users\dawid\source\repos\Lekadex.Core\bin\Debug\netstandard2.1\Lekadex.Core.deps.json
+C:\Users\dawid\source\repos\Lekadex.Core\bin\Debug\netstandard2.1\Lekadex.Core.dll
+C:\Users\dawid\source\repos\Lekadex.Core\bin\Debug\netstandard2.1\Lekadex.Core.pdb
+C:\Users\dawid\source\repos\Lekadex.Core\bin\Debug\netstandard2.1\Lekadex.Database.dll
+C:\Users\dawid\source\repos\Lekadex.Core\bin\Debug\netstandard2.1\Lekadex.Database.pdb
+C:\Users\dawid\source\repos\Lekadex.Core\obj\Debug\netstandard2.1\Lekadex.Core.csproj.AssemblyReference.cache
+C:\Users\dawid\source\repos\Lekadex.Core\obj\Debug\netstandard2.1\Lekadex.Core.AssemblyInfoInputs.cache
+C:\Users\dawid\source\repos\Lekadex.Core\obj\Debug\netstandard2.1\Lekadex.Core.AssemblyInfo.cs
+C:\Users\dawid\source\repos\Lekadex.Core\obj\Debug\netstandard2.1\Lekadex.Core.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\Lekadex.Core\obj\Debug\netstandard2.1\Lekadex.Core.csproj.CopyComplete
+C:\Users\dawid\source\repos\Lekadex.Core\obj\Debug\netstandard2.1\Lekadex.Core.dll
+C:\Users\dawid\source\repos\Lekadex.Core\obj\Debug\netstandard2.1\Lekadex.Core.pdb
+C:\Users\dawid\source\repos\Lekadex.Core\obj\Debug\netstandard2.1\Lekadex.Core.GeneratedMSBuildEditorConfig.editorconfig
